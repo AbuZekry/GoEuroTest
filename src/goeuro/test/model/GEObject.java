@@ -10,13 +10,6 @@ public class GEObject {
 	public GEObject() {
 	}
 	
-	public GEObject(String id, String name, String type, String latitude, String longitude) {
-		this._id = id;
-		this.name = name;
-		this.type = type;
-		this.latitude = latitude;
-		this.longitude = longitude;
-	}
 	public GEObject(GEObject object) {
 		this._id = object.getId();
 		this.name = object.getName();
