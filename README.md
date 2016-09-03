@@ -2,7 +2,7 @@
 
 This Project is for GoEuro application
 
-The jar usage: java -jar GoEuroTest.jar -city \"<CITY_NAME>\" [-o outputFilePath]
+The jar usage: java -jar GoEuroTest.jar -city "CITY_NAME" [-o "outputFilePath"]
 
 you have to give the -city option
 
